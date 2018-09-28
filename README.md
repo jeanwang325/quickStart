@@ -1,14 +1,13 @@
 # quickStart
-----------------
+
 ## Headers
 
-# This is an `<h1>` tag
+# This is an \<h1\> tag
 
-## This is an `<h2>` tag
+## This is an \<h2\> tag
 
-### This is an `<h6>` tag
+### This is an \<h6\> tag
 
----------------
 ## Emphasis
 
 *This text will be italic*
@@ -24,7 +23,7 @@ _You **can** combine them_
 ~~This was mistaken text~~
 
 **This text is _extremely_ important**
---------------
+
 ## Lists
 
 Unordered
@@ -40,13 +39,11 @@ Ordered
    1. Item 3a
    1. Item 3b
 
-------------
 ## Links
 http://github.com - automatic!
 
 [Link](http://github.com)
 
------------
 ## Blockquotes
 
 As Kanye West said:
@@ -54,12 +51,10 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
------------
 ## Inline code
 
 I think you should use an `<addr>` element here instead
 
-----------
 ## Syntax highlighting
 Here is an example of how you can use syntax highlighting with [Github Flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
@@ -80,4 +75,5 @@ You can also simply indicate your code by four spaces:
 
 ## Ignore Markdown formatting
 You can tell GitHub to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
+
 Let's rename \*our-new-project\* to \*our-old-project\*.
