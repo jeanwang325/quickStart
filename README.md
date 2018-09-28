@@ -21,6 +21,9 @@ __This will also be bold__
 
 _You **can** combine them_
 
+~~This was mistaken text~~
+
+**This text is _extremely_ important**
 --------------
 ## Lists
 
@@ -75,4 +78,6 @@ You can also simply indicate your code by four spaces:
         }
     }
 
-
+## Ignore Markdown formatting
+You can tell GitHub to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
+Let's rename \*our-new-project\* to \*our-old-project\*.
