@@ -2,7 +2,8 @@
 Hi Humans!
 ----------------
 Headers
-# This is an <h1> tag
+
+# This is an "<h1>" tag
 
 ## This is an <h2> tag
 
@@ -10,6 +11,7 @@ Headers
 
 ---------------
 Emphasis
+
 *This text will be italic*
 
 _This will also be italic_
@@ -22,6 +24,8 @@ _You **can** combine them_
 
 --------------
 Lists
+
+Unordered
 * Item 1
 * Item 2
   * Item 2a
@@ -33,4 +37,23 @@ Ordered
 1. Item 3
    1. Item 3a
    1. Item 3b
+
+------------
+Links
+http://github.com - automatic!
+
+[GitHub](http://github.com)
+
+-----------
+Blockquotes
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+-----------
+Inline code
+
+I think you should use an `<addr>` element here instead
 
