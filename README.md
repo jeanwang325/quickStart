@@ -3,11 +3,11 @@ Hi Humans!
 ----------------
 Headers
 
-# This is an "<h1>" tag
+# This is an `<h1>` tag
 
-## This is an <h2> tag
+## This is an `<h2>` tag
 
-### This is an <h6> tag
+### This is an `<h6>` tag
 
 ---------------
 Emphasis
@@ -56,4 +56,23 @@ As Kanye West said:
 Inline code
 
 I think you should use an `<addr>` element here instead
+
+----------
+Syntax highlighting
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+You can also simply indicate your code by four spaces:
+
+    function fancyAlert(arg) {
+        if(arg) {
+          $.facebox({div:'#foo'})
+        }
+    }
+
 
