@@ -1,7 +1,6 @@
 # quickStart
-Hi Humans!
 ----------------
-Headers
+## Headers
 
 # This is an `<h1>` tag
 
@@ -10,7 +9,7 @@ Headers
 ### This is an `<h6>` tag
 
 ---------------
-Emphasis
+## Emphasis
 
 *This text will be italic*
 
@@ -23,7 +22,7 @@ __This will also be bold__
 _You **can** combine them_
 
 --------------
-Lists
+## Lists
 
 Unordered
 * Item 1
@@ -39,13 +38,13 @@ Ordered
    1. Item 3b
 
 ------------
-Links
+## Links
 http://github.com - automatic!
 
-[GitHub](http://github.com)
+[Link](http://github.com)
 
 -----------
-Blockquotes
+## Blockquotes
 
 As Kanye West said:
 
@@ -53,12 +52,13 @@ As Kanye West said:
 > the present is our past.
 
 -----------
-Inline code
+## Inline code
 
 I think you should use an `<addr>` element here instead
 
 ----------
-Syntax highlighting
+## Syntax highlighting
+Here is an example of how you can use syntax highlighting with [Github Flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 ```javascript
 function fancyAlert(arg) {
